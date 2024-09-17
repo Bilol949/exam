@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    border: 3px solid red;
+    border-radius: 200px;
+}
+span{
+    color: red;
+}
+h3{
+    color: green;
+}
+h2{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+#BB{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+h4{
+    color: green;
+}
+#VC{
+    color: green;
+}
+button{
+    width: 200px;
+    background-color: rgb(99, 150, 222);
+    border: none;
+    color: aliceblue;
+    height: 30px;
+}
+#V{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+td{
+    text-align: center;
+}
+th{
+    background-color: blue;
+    color: aliceblue;
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+}
+td{
+    background-color: black;
+    color: aliceblue;
+}
+#N{
+    background-color: red;
+}
+#M{
+    background-color: red;
+}
+#A{
+    background-color: green;
+}
